@@ -6,4 +6,5 @@
 - Added Final Instructions to repo
 - Added training data to repo
 - Created Jupyter notebook for the team to collaborate
-- Started to assign task to team members
+### 07/13/2023
+- Started to assign tasks to team members
