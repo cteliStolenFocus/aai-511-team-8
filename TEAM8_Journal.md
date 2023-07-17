@@ -8,3 +8,9 @@
 - Created Jupyter notebook for the team to collaborate
 ### 07/13/2023
 - Started to assign tasks to team members
+### 07/16/2023
+- First meeting
+- Intro, goals, tasks, resources
+- Jupyter notebook framework - Due date 7/19/23 (Chris)
+- All to work on the ideas for building a CNN and LSTM related model - Due date 7/23/23 (Adam, Iknna, Chris)
+- Discuss all on meeting due date 7/23/23 @ 18:00 (Adam will organize)
