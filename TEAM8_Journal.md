@@ -14,3 +14,6 @@
 - Jupyter notebook framework - Due date 7/19/23 (Chris)
 - All to work on the ideas for building a CNN and LSTM related model - Due date 7/23/23 (Adam, Iknna, Chris)
 - Discuss all on meeting due date 7/23/23 @ 18:00 (Adam will organize)
+### 07/19/2023
+- Checked in feature extraction code
+- Checked in picked data frame
