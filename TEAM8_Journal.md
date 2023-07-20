@@ -17,3 +17,5 @@
 ### 07/19/2023
 - Checked in feature extraction code
 - Checked in picked data frame
+- Started the Project Management documentation
+- Team code review of file load code
