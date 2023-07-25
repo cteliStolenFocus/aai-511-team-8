@@ -19,3 +19,5 @@
 - Checked in picked data frame
 - Started the Project Management documentation
 - Team code review of file load code
+### 07/24/2023
+- Started work on creating an initial model the uses LSTM
