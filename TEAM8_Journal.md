@@ -19,5 +19,18 @@
 - Checked in picked data frame
 - Started the Project Management documentation
 - Team code review of file load code
-### 07/24/2023
+### 07/25/2023
+- Meeting #2
+- Discuss the dataset: How the Pickle file works, verifying it is capturing the correct data
+- Assign tasks:
+  - Chris:
+    - Continue to code the dataset,
+    - verify Pickle file, tune current def.
+  - Adam:
+    - Code review for what is done
+    - suggest tuning if needed
+    - Update documentation
+    - Ask about the LSTM and the CNN
+  - Ikenna:
+    - Tune the LSTM Model, update info
 - Started work on creating an initial model the uses LSTM
