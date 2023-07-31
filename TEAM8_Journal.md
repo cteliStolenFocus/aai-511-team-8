@@ -34,8 +34,16 @@
   - Ikenna:
     - Tune the LSTM Model, update info
 - Started work on creating an initial model the uses LSTM
+### 07/27/2023
+- Ikenna coded 3 versions of LSTM with different setting
+- Each setting has a score 
 ### 07/30/2023
-- Installed FluidSynth/Midi2Audio to conver to wav files
-- Converting to wav files
-- Using Sound Fond TimGM6mb.sf2. 
-- Once the files are converted recreate features using librosa
+- Chris Installed FluidSynth/Midi2Audio to conver to wav files
+    - Converting to wav files
+    - Using Sound Fond TimGM6mb.sf2. 
+    - Once the files are converted recreate features using librosa
+- Group meeting #3:
+    - Chris preparing a better data file for extraction
+    - Adam to review all code
+    - Adam to update documentation
+ - Adam organized current code
