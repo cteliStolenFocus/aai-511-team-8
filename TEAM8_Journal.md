@@ -47,3 +47,10 @@
     - Adam to review all code
     - Adam to update documentation
  - Adam organized current code
+### 08/3/2023
+ - Group Meeting # 4:
+     - Discussion on the various models, LSTM, CNN (Text), CNN (Spectrum PNG)
+     - Chris to continue work on PNG file and WAV file sizes
+     - Adam to continue documentaion and organize and check codes
+     - Ikenna help look at the LSTM results, tune as necessary
+   
