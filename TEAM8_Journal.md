@@ -53,4 +53,9 @@
      - Chris to continue work on PNG file and WAV file sizes
      - Adam to continue documentaion and organize and check codes
      - Ikenna help look at the LSTM results, tune as necessary
+  ### 8/9/2023
+  - Group Meeting # 5:
+     - Reveiw of final code
+     - Review of project documentation
+  
    
