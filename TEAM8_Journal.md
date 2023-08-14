@@ -57,5 +57,20 @@
   - Group Meeting # 5:
      - Reveiw of final code
      - Review of project documentation
+  ### 8/11/2023
+  - Group Meeting # 6:
+    - Chris shows the spectograph CNN model
+    - We review the data scaling issue
+    - We update documentation
+    - We assigned tasks: Ikenna review results and update, Adam update documents, Chris complete CNN V2 model
+  ### 8/12/2023
+   - Group Meeting # 7:
+     - Discussion on code implementation detail
+     - update documentation
+  ### 8/13/2023
+   - Group meeting # 8:
+      - Finalize the code
+      - Finalize documentation report
+    
   
    
