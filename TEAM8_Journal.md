@@ -71,6 +71,12 @@
    - Group meeting # 8:
       - Finalize the code
       - Finalize documentation report
+  ### 8/14/2023
+   - Final review of the code
+   - Final review of the Project Documentation
+   - Approval by team
+   - Submission
+   - END
     
   
    
